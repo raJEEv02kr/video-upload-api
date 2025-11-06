@@ -61,19 +61,8 @@ Use Postman, Thunder Client, curl, or your frontend app to interact with the API
 ├── package.json
 ├── README.md
 
-## Contributing
 
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.  
-Follow standard style and submit helpful commit messages.
 
-## License
-
-This project is released under the MIT License.
-
-## Contact
-
-Maintainer: [Your Name]  
-Email: your.email@example.com
 
 
 
